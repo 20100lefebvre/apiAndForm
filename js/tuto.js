@@ -171,11 +171,7 @@ if(document.forms["lesQuestions"].choix3[0].checked == true && document.forms["l
 }
 });
 
-// /alertConfig est une variable prédéfinie. 
-alertConfig={                              
-                   boxBgColor:"red" // ou bien toute autre couleur #aaccee par exemple
-                  };
-alert('Boite de dialogue,<br>sans evennement onclick <br>!');
+
 
 //*************************************************** */
 
